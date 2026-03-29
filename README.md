@@ -1,14 +1,14 @@
 # Portofolio-Raihan-Lahanda
 IT Engineer focused on system monitoring, ATM management, and troubleshooting
 
-# 👨‍💻 Portfolio - Raihan Lahanda
+## Portfolio - Raihan Lahanda
 
-## 🚀 About Me
+## About Me
 IT Engineer dengan pengalaman dalam monitoring sistem ATM, maintenance aplikasi, serta troubleshooting dan deployment system di lingkungan perbankan.
 
 ---
 
-## 🛠️ Skills
+## Skills
 - System Monitoring (ATM)
 - Troubleshooting Application & Server
 - Deployment & Patching System
@@ -19,7 +19,7 @@ IT Engineer dengan pengalaman dalam monitoring sistem ATM, maintenance aplikasi,
 
 ---
 
-## 💼 Experience
+## Experience
 ### Engineer Software - Bank Aceh
 📍 Banda Aceh | 📅 September 2023 - Sekarang
 
@@ -32,7 +32,7 @@ IT Engineer dengan pengalaman dalam monitoring sistem ATM, maintenance aplikasi,
 
 ---
 
-## 🔧 Tools & Technology
+## Tools & Technology
 - ATMON System
 - Linux / Windows Server
 - SQL (Basic)
@@ -40,10 +40,10 @@ IT Engineer dengan pengalaman dalam monitoring sistem ATM, maintenance aplikasi,
 
 ---
 
-## 📊 Work Flow (ATMON System)
+## Work Flow (ATMON System)
 ATM Machine → ATMON System → Monitoring Dashboard → Engineer → Data Center → Update System
 
 ---
 
-## 🎯 Career Goal
+## Career Goal
 Mengembangkan karir di bidang IT, khususnya dalam system, database, dan teknologi seperti AI & automation.
